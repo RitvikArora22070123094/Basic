@@ -1,11 +1,10 @@
-AIM-1
-Write the program to print Hello World
+#**Basic**
 
-THEORY
+## **THEORY**
 Hello World programs are traditionally used to demonstrate how the coding process works as well as to ensure that a language or system is working properly. They are typically the first programs that new coders learn and even those with little to no programming experience can quickly and correctly execute Hello World.
 
-ALGORITHM
-1.#include : This line includes the Input/Output Stream library, which provides functions like cout and endl for input and output operations.
+### **ALGORITHM**
+1.#include <iostream>: This line includes the Input/Output Stream library, which provides functions like cout and endl for input and output operations.
 
 2.int main() { ... }: This is the main function of your C++ program. It is the entry point of your program, and execution begins here.
 
@@ -19,17 +18,24 @@ ALGORITHM
 
 7.return 0;: This line indicates the successful completion of the main function. In C++, it's a convention to return 0 to indicate a successful execution of the program.
 
-Compile and run this code, and it will print "Hello, World!" to the console.
-OUTPUT
-Hello world
+8. Compile and run this code, and it will print "Hello, World!" to the console.
+   
+### **OUTPUT**
 
-AIM-2
+
+
+
+
+![Hello world](https://github.com/Purvansha022609/Basic/assets/139473344/17549f53-8c30-4869-8284-b26c5f601d7f)
+
+
+# **AIM-2**
 Creating a basic calculator in C++
 
-THEORY
+## **THEORY**
 Calculators have widely used devices nowadays. It makes calculations easier and faster. Calculators are used by everyone in daily life. A simple calculator can be made using a C++ program that is able to add, subtract, multiply, and divide, two operands entered by the user
 
-ALGORITHM
+### **ALGORITHM**
 1.Start the program.
 
 2.Display a menu to the user with options for different arithmetic operations (e.g., addition, subtraction, multiplication, division). Each option should be associated with a unique numeric code (e.g., 1 for addition, 2 for subtraction, etc.).
@@ -62,7 +68,6 @@ ALGORITHM
 
 This algorithm outlines the basic structure of a calculator program using switch cases. It allows the user to choose an operation, enter two numbers, perform the calculation, and display the result. Additionally, it includes error handling for division by zero and provides the option to perform multiple calculations or exit the program.
 
-OUTPUT
-![image](https://github.com/RitvikArora22070123094/Basic/assets/139522395/d161e4e8-df3b-41ae-a715-2deb9b90d799)
+### **OUTPUT**
 
-
+![Basic calculator](https://github.com/Purvansha022609/Basic/assets/139473344/5b35e14c-03b6-484c-bf39-d34b003e715d)
